@@ -1,0 +1,8 @@
+[
+  "airflow.osdu.i2g.cloud",
+  "keycloak.osdu.i2g.cloud",
+  "s3.osdu.i2g.cloud",
+  "minio.osdu.i2g.cloud",
+  "osdu.osdu.i2g.cloud",
+  "osdu.i2g.cloud"
+]
