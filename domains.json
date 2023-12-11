@@ -4,5 +4,8 @@
   "s3.osdu.i2g.cloud",
   "minio.osdu.i2g.cloud",
   "osdu.osdu.i2g.cloud",
-  "osdu.i2g.cloud"
+  "osdu.i2g.cloud",
+  "file.i2g.cloud",
+  "wg.i2g.cloud",
+  "ddns.i2g.cloud"
 ]
